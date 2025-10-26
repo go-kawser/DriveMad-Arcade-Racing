@@ -1,4 +1,4 @@
-# Drive Mad — High-Octane Arcade Racing
+# Drive Mad | High-Octane Arcade Racing
 
 ## **Note:** "I Will Not Give TypeScript Code Publicly"
 
