@@ -15,7 +15,7 @@ This README is focused on the distributable build in `dist/` and provides a visi
 ## Highlights and Features
 
 - Tight, arcade-style driving physics tuned for fast, addictive gameplay.
-- Multiple tracks, vehicles and unlockable upgrades (customize as needed in source).
+- Multiple tracks, vehicles and unlock able upgrades.
 - Responsive UI that adapts to desktop and mobile browsers.
 - Optimized production bundle: minified JS, compressed textures and cache-friendly assets.
 - Input support: keyboard, gamepad (where supported), touch.
@@ -74,7 +74,7 @@ If you're viewing only the `dist/` folder and want to work on features, locate t
 ### Common troubleshooting
 
 - Blank screen / console errors: check the browser console for 404s (missing assets) or syntax errors. Ensure `dist/` is served over HTTP(S).
-- Audio not playing: many browsers block autoplay, interact once (click/tap) to enable audio.
+- Audio not playing: many browsers block auto play, interact once (click/tap) to enable audio.
 - Controls not responsive on mobile: ensure touch mappings are enabled in the source and that `touch-action` CSS is not blocking events.
 
 #### Contributing
