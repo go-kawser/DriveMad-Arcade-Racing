@@ -41,7 +41,7 @@ The `dist/` folder is the production-ready package. Typical layout:
 
 ```
 dist/
-├─ index.html   # only single entry page
+index.html   # only single entry page
 ```
 
 Replace or add assets (images, audio) carefully--> filenames may be hashed in production builds.
@@ -103,7 +103,9 @@ This `dist/` bundle is distributed under the MIT License by default. Replace or 
 
 #### Contact and Professional Services
 
-If you'd like a custom port, white-label build, or dedicated hosting, **Contact:** abu.kayser.official@gmail.com
+If you'd like a custom port, white-label build, or dedicated hosting.
+
+- **Email:** abu.kayser.official@gmail.com
 
 ---
 
@@ -113,3 +115,5 @@ If you'd like, I can also:
 - Create a compact `README` for the repo root with badges, contributor guidelines, and a roadmap.
 
 If you want the README to reference exact build commands and scripts, point me to the project root or share `package.json`, I will update the doc to match the real scripts.
+
+---
