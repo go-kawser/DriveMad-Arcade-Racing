@@ -77,7 +77,7 @@ If you're viewing only the `dist/` folder and want to work on features, locate t
 - Audio not playing: many browsers block auto play, interact once (click/tap) to enable audio.
 - Controls not responsive on mobile: ensure touch mappings are enabled in the source and that `touch-action` CSS is not blocking events.
 
-#### Contributing
+### Contributing
 
 **If you have the source repository and want to contribute:**
 
@@ -92,20 +92,23 @@ If you're viewing only the `dist/` folder and want to work on features, locate t
 - Keep builds reproducible; commit lockfiles (`package-lock.json` / `yarn.lock`) if present.
 - Add small, focused PRs. For visual changes include before/after screenshots or GIFs.
 
-#### License
+### License
 
-This `dist/` bundle is distributed under the MIT License by default. Replace or update with your chosen license. See the `LICENSE` file in the repository root for authoritative terms.
+- This project is licensed under the terms of the **[MIT License](./LICENSE)**.
+- You may replace or update the license as needed for client or proprietary projects.
 
-#### Credits and Acknowledgements
+---
 
-- Game design, art and audio: [hide]
-- Built with love and coffee. Special thanks to contributors and playtesters.
+### Contact and Maintainer
 
-#### Contact and Professional Services
+**Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)  
+**Name:** Md Abu Kayser - Full-Stack Engineer
 
-If you'd like a custom port, white-label build, or dedicated hosting.
+- **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
+- **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
+- **Project:** _DriveMad-Arcade-Racing_
 
-- **Email:** abu.kayser.official@gmail.com
+If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
 
 ---
 
@@ -115,5 +118,9 @@ If you'd like, I can also:
 - Create a compact `README` for the repo root with badges, contributor guidelines, and a roadmap.
 
 If you want the README to reference exact build commands and scripts, point me to the project root or share `package.json`, I will update the doc to match the real scripts.
+
+---
+
+**Thank you for reviewing this project!**
 
 ---
